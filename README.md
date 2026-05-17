@@ -172,6 +172,7 @@ Logistics_excel_analysis/
 
 ### Dashboard Overview
 > *📌 Screenshot placeholder — add `Screenshots/dashboard_overview.png`*
+<img width="503" height="368" alt="image" src="https://github.com/user-attachments/assets/d2df1d42-3a38-401a-80f3-49b73ae744c7" />
 
 ![Dashboard Overview](Screenshots/dashboard_overview.png)
 
