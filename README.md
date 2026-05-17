@@ -177,30 +177,6 @@ Logistics_excel_analysis/
 
 ---
 
-### KPI Cards & Summary Metrics
-> *📌 Screenshot placeholder — add `Screenshots/kpi_cards.png`*
-
-![KPI Cards](Screenshots/kpi_cards.png)
-
----
-
-### Carrier Performance Analysis
-> *📌 Screenshot placeholder — add `Screenshots/carrier_analysis.png`*
-
-![Carrier Analysis](Screenshots/carrier_analysis.png)
-
-
----
-
-### Regional Delivery Breakdown
-> *📌 Screenshot placeholder — add `Screenshots/regional_breakdown.png`*
-
-![Regional Breakdown](Screenshots/regional_breakdown.png)
-
-</div>
-
----
-
 ## 🚀 Future Improvements
 
 | Enhancement | Description |
